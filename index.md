@@ -18,7 +18,7 @@ title: About Me
 <br /> This research is about analysis on law firms' performance with Data from the NALP website. My work is solving problems with missing values in Excel, collecting more data,  and consolidating them into firm-level. This link is almost the final work, and I was combing different years of data and getting them ready for consolidation in Excel.
 <br /> 
 <br /> <i>My Github</i>
-[GitHub Repository](https://github.com/ivywangh?tab=repositories)
+<br /> [GitHub Repository](https://github.com/ivywangh?tab=repositories)
 <br /> 
 <br /> <i>My Life</i>
 <br /> An idea about UI logo generated in my Calligraphy class:![logo image](https://raw.githubusercontent.com/ivywangh/bais_9400/main/logo.jpg)
