@@ -1,7 +1,7 @@
 ---
 title: About Me
 ---
-![profile image](https://github.com/ivywangh/bais_9400/blob/main/grad.jpg)
+![profile image](https://github.com/ivywangh/bais_9400/blob/main/grad.jpg?raw=true)
 <br /> This is my first year in the MSBA program. 
 <br /> I build up my visualization and database management skills last semester.
 <br /> I learned how to use Tableau for visualizations and Oracle Apex for data management.
