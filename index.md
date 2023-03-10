@@ -17,6 +17,9 @@ title: About Me
 <br /> [Research Work](https://iowa-my.sharepoint.com/:u:/g/personal/hwang206_uiowa_edu/EWYfuNtqnZ1OhxVbH4k0xOIBo4FYCRZ0GJWkFx9_WjzlZg?e=Lo6NOC)
 <br /> This research is about analysis on law firms' performance with Data from the NALP website. My work is solving problems with missing values in Excel, collecting more data,  and consolidating them into firm-level. This link is almost the final work, and I was combing different years of data and getting them ready for consolidation in Excel.
 <br /> 
+<br /> <i>My Github</i>
+[GitHub Repository](https://github.com/ivywangh?tab=repositories)
+<br /> 
 <br /> <i>My Life</i>
 <br /> An idea about UI logo generated in my Calligraphy class:![logo image](https://raw.githubusercontent.com/ivywangh/bais_9400/main/logo.jpg)
 
