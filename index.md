@@ -5,7 +5,7 @@ title: About Me
 <br /> 
 <br /> <i>My Story</i>
 <br /> Nice to see you here! My name is Ivy Wang. This is my first year in the MSBA program at UI. 
-<br /> I got my Bachlor degree in Business Analytics from Tippie college of Business.
+<br /> I got my Bachlor degree in Business Analytics from Tippie college of Business in May 2022.
 <br /> I am good at programming with Python and R, also good with Tablesu visualizations. 
 <br /> 
 <br /> <i>My Resume</i>
