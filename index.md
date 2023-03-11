@@ -4,10 +4,9 @@ title: About Me
 ![profile image](https://github.com/ivywangh/bais_9400/blob/main/grad.jpg?raw=true)
 <br /> 
 <br /> <i>My Story</i>
-<br /> Nice to see you here! My name is Ivy Wang. 
-<br /> This is my first year in the MSBA program at UI. 
+<br /> Nice to see you here! My name is Ivy Wang. This is my first year in the MSBA program at UI. 
 <br /> I got my Bachlor degree in Business Analytics from Tippie college of Business.
-<br /> I am good at Python and R programming. 
+<br /> I am good at programming with Python and R, also good with Tablesu visualizations. 
 <br /> 
 <br /> <i>My Resume</i>
 <br /> [Ivy's Resume](https://iowa-my.sharepoint.com/:b:/g/personal/hwang206_uiowa_edu/EXBPFwYwmohOoTrZS9G-vxEBj1AYFi6AaG-t8ff7FyJurQ?e=VfFFhx)
